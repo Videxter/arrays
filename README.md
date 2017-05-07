@@ -1,2 +1,2 @@
-Algunas herramientas para arrays en Chukc
+Algunas herramientas para arrays en Chuck
 =========================
